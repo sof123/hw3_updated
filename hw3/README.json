@@ -1,4 +1,5 @@
 {
      "netid": "sof1",
-  "frontend": "http://evanescent-creator.surge.sh/"
+     "title": "Memory",
+  "site": "http://evanescent-creator.surge.sh/"
 }
